@@ -2,9 +2,8 @@
 # Readme
 
 This was the fifth project that I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned for Tableau Story Telling. The purpose was to prepare an analysis for the CEO of Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.
+[<img src="(https://github.com/mudumbaigth/Dataprojects_Tripleten/blob/main/Superstore%20Returns/tableau%20dashboard.png)" 
 
-
-https://github.com/mudumbaigth/Dataprojects_Tripleten/blob/main/Superstore%20Returns/tableau%20dashboard.png
 ## Table of Contents
 
 1. [Raw_data Superstore](https://github.com/mudumbaigth/Dataprojects_Tripleten/blob/main/Superstore%20Returns/Raw_data%20Superstore.xls) - The original data file provided by TripleTen that was used in the analysis of this project.
